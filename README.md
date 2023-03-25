@@ -59,7 +59,7 @@ Wanna know more? See the demo video [here][video link]. -->
 
 1. Clone the repository.
 ```
-https://github.com/hashirpm/secureX.git
+https://github.com/shiyasmohd/secureX.git
 ```
 
 2. Go to the cloned directory (e.g. `cd secureX`).

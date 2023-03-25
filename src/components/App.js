@@ -52,7 +52,7 @@ class App extends Component {
     // Network ID
     const networkId = await web3.eth.net.getId();
     // const networkData = Securex.networks[networkId]
-    const networkAdress = "0x83749167D4B8D7cAb243BD45875EA1fA2b2726a2";
+    const networkAdress = "0x214a9052853172Ab42A18dc6C16c717Bf1A8E32C";
     // const networkAdress = "0xE4f76e3aE3C6D77Ad74E5276663F9e79D066CE6B"
 
     if (networkAdress) {
